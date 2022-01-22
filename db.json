@@ -18,21 +18,21 @@
       "title": "Lorem ipsum dolor",
       "author": "Denis",
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti!Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
-      "likes": 107,
+      "likes": 111,
       "id": "3"
     },
     {
-      "title": "titre 1",
-      "content": "post de titr1",
+      "title": "titre22",
       "author": "user42",
-      "likes": 0,
-      "id": "DmEi3Ut"
+      "content": "lorem epsum",
+      "likes": 2,
+      "id": "DsVNis6"
     }
   ],
   "users": [
     {
       "pseudo": "user42",
-      "likes": 30,
+      "likes": 37,
       "id": 1
     }
   ]
