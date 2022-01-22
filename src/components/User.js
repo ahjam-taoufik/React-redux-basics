@@ -4,7 +4,7 @@ import { isEmpty } from './Utils';
 
 const User = () => {
   const user=useSelector(state=>state.userReducer)
-  console.log(user);
+  //console.log(user);
   return (
     <div className="user-container">
       <div className="user">
